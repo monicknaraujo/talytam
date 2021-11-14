@@ -1,5 +1,11 @@
 <img src="https://media.giphy.com/media/BqQe9ikFPXi0PTvavF/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
+
+
+
+
+
+
 <p align="left"> 
   🍭 Olá, me chamo Talyta Moysa. Sou estudante de <strong>Front-end</strong>.
 </p>
