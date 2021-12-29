@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/BqQe9ikFPXi0PTvavF/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://64.media.tumblr.com/72d9b6fc30d4eb5f3a7cb99913bff8c2/08ee4c9f524f3079-d2/s400x600/b2d6df9b75ebc5713945731e224a48d14903def9.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
 
