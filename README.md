@@ -20,7 +20,7 @@
 
 <div align="left">
   <a href="https://github.com/talytam">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talytam&layout=compact&langs_count=7&theme=bear"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talytam&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
 ##
