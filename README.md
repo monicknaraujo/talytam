@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/72d9b6fc30d4eb5f3a7cb99913bff8c2/08ee4c9f524f3079-d2/s400x600/b2d6df9b75ebc5713945731e224a48d14903def9.gif" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador">
+<img src="https://64.media.tumblr.com/72d9b6fc30d4eb5f3a7cb99913bff8c2/08ee4c9f524f3079-d2/s400x600/b2d6df9b75ebc5713945731e224a48d14903def9.gif" min-width="250px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
 
@@ -7,26 +7,22 @@
 
 
 <p align="left"> 
-  🍭 Olá, me chamo Talyta Moysa. Sou estudante de <strong>Front-end</strong>.
+<h1>Olá! Tudo bem?</h1>
+<p>Meu nome é Talyta Moysa, tenho 27 anos e moro em Curitiba/PR. Sou apaixonada por tecnologia, games, marvel, documentários sobre crimes/investigações e pixel art.</p>
+
+<p>Formada em Recursos Humanos. Infelizmente, não tive o sucesso que esperava nesta área, o que fez com que eu procurasse outras formas de obter a satisfação profissional que eu tanto desejava.</p>
+ 
+<p>Acabei caindo na área da tecnologia que, para minha surpresa, me abraçou de forma muito carinhosa. Hoje, é nesta área que dedico a maior parte do meu tempo, estudando sempre em busca da evolução.</p>
+ 
+<p>Tenho conhecimento em Lógica da Programação, HTML, CSS e, atualmente, estou estudando JavaScrip. Tenho forte interesse em desenvolvimento front-end, mas isso pode mudar ao decorrer da minha longa jornada!
 </p>
 
-<p align="left">
-  🦄 Aprendendo sobre <strong>HTML, CSS </strong>e<strong> Javascript</strong>.
-</p>
-
-<p align="left">
-  🛠️ Ferramentas: <strong>VSCode, Git</strong> e<strong> Github</strong>.
-</p>
-
-<div align="left">
-  <a href="https://github.com/talytam">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talytam&layout=compact&langs_count=7&theme=bear"/>
-</div>
 
 ##
 
 <p align="left">
-  <a href="https://www.instagram.com/taly.moy/" alt="Instagram">
+Sinta-se à vontade para entrar em contato comigo para conversarmos sobre qualquer coisa!
+<p><a href="https://www.instagram.com/taly.moy/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=f51bc8&link=https://www.instagram.com/taly.moy"/>
   </a>
   
