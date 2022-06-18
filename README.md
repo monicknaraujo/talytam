@@ -12,7 +12,7 @@
 
 <p>Formada em Recursos Humanos. Infelizmente, não tive o sucesso que esperava nesta área, o que fez com que eu procurasse outras formas de obter a satisfação profissional que eu tanto desejava.</p>
  
-<p>Acabei caindo na área da tecnologia que, para minha surpresa, me abraçou de forma muito carinhosa. Hoje, curso Análise e Desenvolvimento de Sistemas, estudando sempre em busca da evolução.</p>
+<p>Acabei caindo na área da tecnologia que, para minha surpresa, me abraçou de forma muito carinhosa. Hoje, curso Análise e Desenvolvimento de Sistemas e sou admin voluntária no canal da comunidade <a href="https://t.me/CafeinaVagas">@CafeinaVagas</a> e no grupo de chat <a href="https://t.me/CafeinaVagasChat">@CafeinaVagasChat</a>, que tem como objetivo ajudar iniciantes na carreira de TI, com foco em grupos minoritários.</p>
  
 
 <h2 align="left">Linguagens e ferramentas:</h2>
@@ -42,9 +42,5 @@ Sinta-se à vontade para entrar em contato comigo para conversarmos sobre qualqu
   
   <a href="https://www.linkedin.com/in/talytamoy/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=f51bc8&link=https://www.linkedin.com/in/talytamoy"/>
-  </a>
-  
-  <a href="mailto:contatotalytamoysa@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=f51bc8&link=mailto:contatotalytamoysa@gmail.com"/>
   </a>
 </p>
