@@ -12,10 +12,24 @@
 
 <p>Formada em Recursos Humanos. Infelizmente, não tive o sucesso que esperava nesta área, o que fez com que eu procurasse outras formas de obter a satisfação profissional que eu tanto desejava.</p>
  
-<p>Acabei caindo na área da tecnologia que, para minha surpresa, me abraçou de forma muito carinhosa. Hoje, é nesta área que dedico a maior parte do meu tempo, estudando sempre em busca da evolução.</p>
+<p>Acabei caindo na área da tecnologia que, para minha surpresa, me abraçou de forma muito carinhosa. Hoje, curso Análise e Desenvolvimento de Sistemas, estudando sempre em busca da evolução.</p>
  
-<p>Tenho conhecimento em Lógica da Programação, HTML, CSS e, atualmente, estou estudando JavaScrip. Tenho forte interesse em desenvolvimento front-end, mas isso pode mudar ao decorrer da minha longa jornada!
-</p>
+
+<h2 align="left">Linguagens e ferramentas:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+</div>
+
+###
+
 
 
 ##
