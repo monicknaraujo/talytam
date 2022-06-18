@@ -8,7 +8,7 @@
 
 <p align="left"> 
 <h1>Olá! Tudo bem?</h1>
-<p>Meu nome é Talyta Moysa, tenho 27 anos e moro em Curitiba/PR. Sou apaixonada por tecnologia, games, marvel, documentários sobre crimes/investigações e pixel art.</p>
+<p>Meu nome é Talyta Moysa, tenho 28 anos e moro em Curitiba/PR. Sou apaixonada por tecnologia, games, marvel, documentários sobre crimes/investigações e pixel art.</p>
 
 <p>Formada em Recursos Humanos. Infelizmente, não tive o sucesso que esperava nesta área, o que fez com que eu procurasse outras formas de obter a satisfação profissional que eu tanto desejava.</p>
  
